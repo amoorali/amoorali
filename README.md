@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Computer Engineer** with a deep interest in **Machine Learning**, **Computer Vision**, and **Software Development**. I love solving complex problems, exploring new technologies, and creating clean, scalable code. Whether it's training CNNs, writing a custom compiler, or experimenting with different algorithms, I'm always looking to learn and build.
+Computer engineer with hands-on experience in machine learning, computer vision, and software development. Strong collaborator with a passion for clean, maintainable code and continuous learning.
 
 ## 🎓 About Me
 
