@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Computer engineer with hands-on experience in machine learning, computer vision, and software development. Strong collaborator with a passion for clean, maintainable code and continuous learning.
+I'm a computer engineer with hands-on experience in machine learning, computer vision, and software development. Strong collaborator with a passion for clean, maintainable code and continuous learning.
 
 ## 🎓 About Me
 
